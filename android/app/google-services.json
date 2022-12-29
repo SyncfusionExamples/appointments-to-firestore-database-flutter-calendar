@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "320188306436",
-    "firebase_url": "https://calendarfirebase-39afa.firebaseio.com",
-    "project_id": "calendarfirebase-39afa",
-    "storage_bucket": "calendarfirebase-39afa.appspot.com"
+    "project_number": "1084958066336",
+    "project_id": "fir-appointments-f6cce",
+    "storage_bucket": "fir-appointments-f6cce.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:320188306436:android:563a0b0a292248d10f5151",
+        "mobilesdk_app_id": "1:1084958066336:android:13c13c63b768900b4b2bc5",
         "android_client_info": {
-          "package_name": "com.example.flutter_firebase_calendar"
+          "package_name": "com.example.flutterfirebasecalendar"
         }
       },
       "oauth_client": [
         {
-          "client_id": "320188306436-7l44ouqogmrj9s0jgnorvf9atipdj1su.apps.googleusercontent.com",
+          "client_id": "1084958066336-56p0b1m8dgvp9ttgmblvd6umsm0k3347.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBzEzdqdfiYmXLqkcDaLlnw3Osb3cVNU_k"
+          "current_key": "AIzaSyBcNPARmEdyciHfeSKDFg3iFmOZWhuo-fk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "320188306436-7l44ouqogmrj9s0jgnorvf9atipdj1su.apps.googleusercontent.com",
+              "client_id": "1084958066336-56p0b1m8dgvp9ttgmblvd6umsm0k3347.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
